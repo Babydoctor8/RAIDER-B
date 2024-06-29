@@ -11,16 +11,16 @@ RAIDER BOT Multi Device is a whatsapp bot created by <a href="https://github.com
 
 
 
-## ❦︎```SUPER Group & Channel ❦︎```
+## ❦︎```RAIDER Group & Channel ❦︎```
 
-- [ GROUP ](https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe)
-- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
+- [ GROUP ](https://chat.whatsapp.com/CzOu1yTxwLuHqPzpYeoHUz)
+- [Channel](https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P)
 
 ## ☠︎︎𝐦𝐚𝐝𝐞 𝐛𝐲 𝐔𝐍𝐑𝐔𝐋𝐘 𝐀𝐍𝐃𝐘✞︎ ☠︎︎
 
 # ✴️```Fork the repository📲```
 
-- FORK THE REPOSITORY [Here](https://github.com/jayden-official/SUPER-BOT/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Babydoctor8/RAIDER-B/fork)
 
 ## ☪️ `RAIDER PAIRING CODE`
 [![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/SUPERBOT-PairCode-4?s=app)
@@ -28,18 +28,18 @@ RAIDER BOT Multi Device is a whatsapp bot created by <a href="https://github.com
 
 # 🐸```Deployment🖤```
   # 😍Tutorial how to deploy
-[Video Tutorial](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39/116)
+[Video Tutorial](https://chat.whatsapp.com/CzOu1yTxwLuHqPzpYeoHUz)
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
-*Add your Creds.json to Bumblebeesession file
+*Add your Creds.json to Raidersession file
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
-* Locate SUPER-BOT
+* Locate RAIDER-BOT
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -52,8 +52,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/jayden-official/SUPER-BOT
-$ cd SUPER-BOT
+$ git clone https://github.com/Babydoctor8/RAIDER-B
+$ cd RAIDER-BOT
 $ npm i 
 $ npm start
 ```
